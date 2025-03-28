@@ -29,5 +29,5 @@
 
 
 # 2. [예시 이미지]
-<img src="./image/관련이미지2.JPG" width="500">
+<img src="./image/예시 이미지.JPG" width="500">
 
